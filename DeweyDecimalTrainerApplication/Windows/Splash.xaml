@@ -1,0 +1,47 @@
+﻿<Window x:Class="DeweyDecimalTrainerApplication.Windows.Splash"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DeweyDecimalTrainerApplication.Windows"
+        mc:Ignorable="d"
+        ResizeMode="NoResize" 
+        Title="Splash" Height="450" Width="450" WindowStyle="None" WindowStartupLocation="CenterScreen" Icon="../Resources/Images/dewey.ico" >
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="#008f28" Offset="0.362"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Image HorizontalAlignment="Left" Height="150" Margin="149,100,0,0" VerticalAlignment="Top" Width="150" Source="../Resources/Images/deweyimg.png"/>
+        <Label x:Name="lbSplash" Content="Dewey Decimal Trainer Application" Margin="88,250,0,0"  FontSize="18" FontFamily="Yu Gothic UI Light" VerticalAlignment="Top" Width="273" Height="51" HorizontalAlignment="Left" Background="Transparent">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0C0003" Offset="0.992"/>
+                    <GradientStop Color="White" Offset="0.658"/>
+                    <GradientStop Color="#FF180C0F" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Label x:Name="lbSplash_Copy" Content="Dayne Maré 2020© " Margin="10,409,0,0"  FontSize="14" FontFamily="Yu Gothic UI Light" VerticalAlignment="Top" Width="137" Height="31" HorizontalAlignment="Left" Background="Transparent">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0C0003" Offset="0.992"/>
+                    <GradientStop Color="White" Offset="0.658"/>
+                    <GradientStop Color="#FF180C0F" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Label x:Name="lbSplash_Copy1" Content="Version 1.2 " Margin="355,409,0,0"  FontSize="14" FontFamily="Yu Gothic UI Light" VerticalAlignment="Top" Width="76" Height="31" HorizontalAlignment="Left" Background="Transparent">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0C0003" Offset="0.992"/>
+                    <GradientStop Color="White" Offset="0.658"/>
+                    <GradientStop Color="#FF180C0F" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+
+    </Grid>
+</Window>

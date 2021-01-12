@@ -1,0 +1,160 @@
+(1)000 Computer science, information & general works
+(2)010 Bibliographies
+(3)014 Bibliographies of anonymous & pseudonymous works
+(3)017 General subject catalogs
+(2)030 Encyclopedias & books of facts
+(3)032 Encyclopedias in English
+(3)037 Encyclopedias in Slavic languages
+(2)060 Associations, organizations & museums
+(3)061 Organizations in North America
+(3)069 Museum science
+(2)050 Magazines, journals & serials
+(3)053 Serials in other Germanic languages
+(3)057 Serials in Slavic languages
+(2)070 News media, journalism & publishing
+(3)071 Newspapers in North America
+(3)077 Newspapers in eastern Europe; in Russia
+(1)100 Philosophy & psychology
+(2)100 Philosophy
+(3)101 Theory of philosophy
+(3)107 Education, research, related topics of philosophy
+(2)110 Metaphysics
+(3)114 Space
+(3)118 Force and energy
+(2)120 Epistemology
+(3)122 Causation
+(3)129 Origin & destiny of individual souls
+(2)150 Psychology
+(3)152 Sensory perception, movement, emotions, & physiological drives
+(3)154 Subconscious & altered states & processes
+(2)170 Ethics	
+(3)174 Occupational ethics
+(3)171 Ethical systems
+(1)200 Religion
+(2)210 Philosophy & theory of religion
+(3)211 Concepts of God
+(3)213 Creation
+(2)220 The Bible
+(3)225 New Testament
+(3)228 Revelation (Apocalypse)
+(2)230 Christianity
+(3)233 Humankind
+(3)235 Spiritual beings
+(2)260 Social & ecclesiastical theology
+(3)263 Days, times, places of religious observance
+(3)269 Spiritual renewal
+(2)290 Other religions
+(3)295 Zoroastrianism (Mazdaism, Parseeism)
+(3)297 Islam, Bábism & Baháʼí Faith
+(1)300 Social sciences
+(2)310 Statistics
+(3)314 General statistics of Europe
+(3)316 General statistics of Africa
+(2)320 Political science
+(3)321 Systems of governments & states
+(3)325 International migration & colonization
+(2)330 Economics
+(3)334 Cooperatives
+(3)338 Production
+(2)340 Law
+(3)344 Labor, social service, education, cultural law
+(3)348 Laws, regulations, cases
+(2)370 Education
+(3)372 Primary education (elementary education)
+(3)378 Higher education (Tertiary education)
+(1)400 Language
+(2)410 Linguistics
+(3)411 Writing systems of standard forms of languages
+(3)415 Grammar of standard forms of languages
+(2)420 English & Old English languages
+(3)421 Writing system, phonology, phonetics of standard English
+(3)423 Dictionaries of standard English
+(2)430 German & related languages
+(3)432 Etymology of standard German
+(3)438 Standard German usage (Prescriptive linguistics)
+(2)440 French & related languages
+(3)442 Etymology of standard French
+(3)445 Grammar of standard French
+(2)460 Spanish, Portuguese, Galician
+(3)462 Etymology of standard Spanish
+(3)465 Grammar of standard Spanish
+(1)500 Science
+(2)510 Mathematics
+(3)512 Algebra
+(3)516 Geometry
+(2)520 Astronomy
+(3)523 Specific celestial bodies & phenomena
+(3)527 Celestial navigation
+(2)530 Physics
+(3)531 Classical mechanics
+(3)535 Light & related radiation
+(2)540 Chemistry
+(3)543 Analytical chemistry
+(3)547 Organic chemistry
+(2)560 Fossils & prehistoric life
+(3)562 Fossil invertebrates
+(3)567 Fossil cold-blooded vertebrates
+(1)600 Technology
+(2)610 Medicine & health
+(3)612 Human physiology
+(3)615 Pharmacology and therapeutics
+(2)620 Engineering
+(3)622 Mining & related operations
+(3)628 Sanitary engineering
+(2)630 Agriculture
+(3)632 Plant injuries, diseases, pests
+(3)634 Orchards, fruits, forestry
+(2)650 Management & public relations
+(3)652 Processes of written communication
+(3)657 Accounting
+(2)670 Manufacturing
+(3)672 Iron, steel, other iron alloys
+(3)676 Pulp & paper technology
+(1)700 Arts & recreation
+(2)710 Area planning & landscape architecture
+(3)713 Landscape architecture of trafficways
+(3)717 Structures in landscape architecture
+(2)720 Architecture
+(3)722 Architecture from earliest times to ca. 300
+(3)728 Residential & related buildings
+(2)730 Sculpture, ceramics, & metalwork
+(3)733 Greek, Etruscan, Roman sculpture
+(3)737 Numismatics & sigillography
+(2)750 Painting
+(3)753 Symbolism, allegory, mythology, legend
+(3)757 Human figures
+(2)770 Photography, computer art, film, video
+(3)772 Metallic salt processes
+(3)777 Cinematography & Videography
+(1)800 Literature
+(2)820 English & Old English literatures
+(3)821 English Poetry
+(3)824 English essays
+(2)840 French & related literatures
+(3)842 French drama
+(3)846 French letters
+(2)860 Spanish, Portuguese, Galician literatures
+(3)863 Spanish fiction
+(3)867 Spanish humor & satire
+(2)870 Latin & Italic literatures
+(3)872 Latin dramatic poetry & drama
+(3)877 Latin humor & satire
+(2)880 Classical & modern Greek literatures
+(3)883 Classical Greek epic poetry & fiction
+(3)885 Classical Greek speeches
+(1)900 History & geography
+(2)910 Geography & travel
+(3)911 Historical geography
+(3)913 Geography of & travel in ancient world
+(2)930 History of ancient world (to ca. 499)
+(3)931 China to 420
+(3)938 Greece to 323
+(2)960 History of Africa
+(3)962 Egypt, Sudan, South Sudan
+(3)968 Republic of South Africa & neighboring southern African countries
+(2)970 History of North America
+(3)973 United States
+(3)978 Western United States
+(2)980 History of South America
+(3)983 Chile
+(3)987 Venezuela
