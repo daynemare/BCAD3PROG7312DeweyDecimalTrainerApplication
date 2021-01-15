@@ -1,0 +1,648 @@
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\netstandard.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.AppContext.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.Concurrent.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.NonGeneric.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.Specialized.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.Primitives.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Console.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.Common.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Contracts.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Debug.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Process.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Tools.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Tracing.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Drawing.Primitives.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Dynamic.Runtime.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.Calendars.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.Extensions.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Compression.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.IsolatedStorage.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Pipes.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Expressions.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Parallel.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Queryable.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Http.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.NameResolution.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.NetworkInformation.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Ping.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Primitives.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Requests.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Security.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Sockets.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebSockets.Client.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebSockets.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.ObjectModel.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.Extensions.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.Primitives.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.Reader.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.ResourceManager.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.Writer.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Extensions.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Handles.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Numerics.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Claims.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Principal.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.SecureString.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.Encoding.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.RegularExpressions.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Overlapped.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Tasks.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Thread.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.ThreadPool.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Timer.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.ReaderWriter.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XDocument.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XmlDocument.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XmlSerializer.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XPath.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\Dapper.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.dll
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\Dapper.xml
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.xml
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.dll.config
+D:\BCAD2 2019\SEMESTER 2\PROG6212\POE\18002054 PROG6212 POE TASK 1\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\netstandard.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.AppContext.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Console.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.Common.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Http.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Security.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare PROG6212 POE TASK 2\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\netstandard.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.AppContext.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Console.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.Common.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Http.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Security.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Dayne\Desktop\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\netstandard.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.AppContext.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Console.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.Common.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Http.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Security.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 1\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\netstandard.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.AppContext.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Console.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.Common.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Http.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Security.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 Task 2\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\netstandard.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.AppContext.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Console.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.Common.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Compression.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Http.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Ping.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Requests.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Security.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ObjectModel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Claims.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.Principal.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Dayne\Desktop\18002054 Dayne Mare  PROG7312 POE\DeweyDecimalTrainerApplication\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
