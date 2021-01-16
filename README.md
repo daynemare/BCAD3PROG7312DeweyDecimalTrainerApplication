@@ -68,3 +68,5 @@ Total Physical Memory			7,45 GB
 
 # Author
  Dayne Mare`
+# Note
+Documentation for this project can be viewed by clicking the "Documentation file in the repository"
