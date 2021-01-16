@@ -66,5 +66,5 @@ Total Physical Memory			7,45 GB
 -The applications local database file resides in the "Debug" folder of the base application 
  and is titled "DeweyDecimalTrainerApplicationDb.db". The database tables and its data can be viewed using a tool such as "SQLLiteStudio".
 
-Author
+# Author
  Dayne Mare`
